@@ -1,5 +1,3 @@
-
-
 # Ultrasound Plane Game - Arduino Ultrasonic Sensor Project
 
 This project, developed by **schematrix**, implements an ultrasonic sensor-based control mechanism for a plane game. The ultrasonic sensor measures distance to obstacles or hand gestures and transmits this data via serial communication to a Processing sketch, which controls the plane's altitude and gameplay.
@@ -53,5 +51,15 @@ This project is open-source under the MIT License. Contributions and modificatio
 
 ---
 
-**revised by schematrix, burak b.**  
-For questions or feedback, please contact Yoruk16_72 AT yahoo DOT fr.
+## Contact & Social Media
+
+**Revised by schematrix**
+
+- Email: theindustriesofengineering@gmail.com  
+- Instagram: https://www.instagram.com/schematrix.io/
+- YouTube: https://www.youtube.com/@schematrix 
+- TikTok: https://www.tiktok.com/@schematrix
+- Patreon: https://patreon.com/schematrix?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
+- Buy Me a Coffee: https://buymeacoffee.com/schematrix  
+
+For questions or feedback, please feel free to reach out.
